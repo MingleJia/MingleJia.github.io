@@ -1,6 +1,13 @@
 # stepbystep  
 A jekyll theme, simple and clear, compatible with PC iPad and Phone (RWD)
 
+## 作用域!
+```
+作用域：是一套规则，用来管理引擎如何在当前作用域以及嵌套的子作用域中根据标识符名称进行变量查找；
+作用域链：在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或者抵达最外层的作用域（也就是全局作用域）为止。
+```
+*NOTE* **If you do NOT set the duoshuo short name, all comments would commit to this demo site !**
+
 ## Preview
 #### PC or Pad
 <img style="box-shadow: 10px 10px 5px #888888;border: 1px solid black;" src="https://github.com/jokinkuang/stepbystep/raw/master/article.png"></img>
